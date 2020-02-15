@@ -1,0 +1,21 @@
+<?xml version = "1.0"?>
+<Orders>
+   <Order category = "book">
+      <OrderNumber>123456</OrderNumber>
+      <BookName>The Tiger</BookName>
+      <BookAuthor>Nilesh</BookAuthor>
+      <Price>85</Price>
+   </Order>
+   <Order category = "book">
+      <OrderNumber>123457</OrderNumber>
+      <BookName>The Lion</BookName>
+      <BookAuthor>Nilesh</BookAuthor>
+      <Price>85</Price>
+   </Order>
+   <Order category = "computer">
+      <OrderNumber>123458</OrderNumber>
+      <ComputerModel>T400</ComputerModel>
+      <ComputerMake>Lenovo</ComputerMake>
+      <Price>85000</Price>
+   </Order>
+</Orders>
